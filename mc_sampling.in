@@ -1,0 +1,11 @@
+#Monte Carlo parameters
+1000000		Number of Monte Carlo iterations
+3.		Length of maximum displacement of configurations (absolute value)
+0.		Initial position of the particle
+#Physical Parameters
+1.		Mass of the particle
+1.		Characteristic oscillation frequency
+1.		Inverse of temperature (in units of kb)
+#Histogram parameters
+10.		Domain of histogram [-.5L,.5L]
+100		Number of bins for the histogram
