@@ -1,6 +1,6 @@
 CC	= gcc
 
-CFLAGS	= -Wall -O4
+CFLAGS	= -Wall -O3
 LIBS	= -lm
 
 SRC	= mc_sampling.c
